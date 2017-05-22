@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.582289.svg)](https://doi.org/10.5281/zenodo.582289)
+
 # grazers-of-North-American-aquatic-plants
 http://www.apms.org/japm/vol47/v47p073_2009.pdf
 
